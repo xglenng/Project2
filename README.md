@@ -8,7 +8,6 @@ Extend the PHP code from Project #1 to include authenticating to a MySQL databas
 - Ensure you code this project loosely-coupled
 - Must use PHP Database Objects (PDO) to access a MySQL database (**30**)
 
-This is an individual project, no collaborations with anyone. It must be your own work
-*EXTRA CREDIT*: Extend the PHP code from Project 1/2 to include authenticating to a SQLite database. (20)
+This is an individual project, no collaborations with anyone. It must be your own work.  *EXTRA CREDIT*: Extend the PHP code from Project 2 to include authenticating to a SQLite database. (**20**)
 
 **30** points possible
